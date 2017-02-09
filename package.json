@@ -33,7 +33,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nichoth/model-message.git"
+    "url": "git+https://github.com/nichoth/h-app.git"
   },
   "keywords": [
     "elm",
