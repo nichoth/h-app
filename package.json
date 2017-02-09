@@ -1,7 +1,7 @@
 {
   "name": "h-app",
   "description": "Elm-like app for javascript.",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "main": "index.js",
   "directories": {
     "example": "example",
