@@ -1,9 +1,13 @@
 # h-app
 
-Elm interface for javascript.
+Elm-like app for javascript.
+
+Inspired by hyper-app, the difference being that the state machine is decoupled from the view. The default here is using `virtual-dom`, but it is easy to use with another renderer.
 
 
 ## example
+
+app.js
 
 ```js
 var Counter = require('./counter')
